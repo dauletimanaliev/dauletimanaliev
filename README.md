@@ -9,7 +9,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dauletimanaliev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daulet-imanaliev-657b602b7/)
-📫 Email: **dauletimnaliev30@gmail.com**
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dauletimnaliev30@gmail.com)
 
 ## 💻 Tech Stack
 
