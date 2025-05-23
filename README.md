@@ -7,6 +7,6 @@
 
 ## 🌐 Socials
 
-[![Telegram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](@dauletimanaliev)  
+[![Telegram](https://img.shields.io/badge/-Telegram-E4405F?style=flat-square&logo=instagram&logoColor=white)](@dauletimanaliev)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/daulet-dev](https://www.linkedin.com/in/daulet-imanaliev-657b602b7/))  
-📫 Email: **dauletimnaliev30@gmail.com.com**
+📫 Email: **dauletimnaliev30@gmail.com**
